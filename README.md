@@ -85,9 +85,3 @@ Desarrollo y operación de un servicio de hosting y soluciones web, enfocado en:
 blandonmontesmiguelangel@gmail.com  
 
 ---
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudo-CrocPenguin&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-CrocPenguin&layout=compact&theme=dark)
