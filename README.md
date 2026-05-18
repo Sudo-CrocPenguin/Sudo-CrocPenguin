@@ -5,8 +5,8 @@
 ████╗ ████║██║██╔════╝ ██║   ██║██╔════╝██║
 ██╔████╔██║██║██║  ███╗██║   ██║█████╗  ██║
 ██║╚██╔╝██║██║██║   ██║██║   ██║██╔══╝  ██║
-██║ ╚═╝ ██║██║╚██████╔╝╚██████╔╝███████╗███████╗
-╚═╝     ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+     ██║ ╚═╝ ██║██║╚██████╔╝╚██████╔╝███████╗███████╗
+     ╚═╝     ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 ```
 
 # Miguel Ángel Blandón Montes
@@ -103,8 +103,8 @@ Servidor personal Ubuntu corriendo en producción con múltiples servicios activ
 | Institución | Título | Estado |
 |---|---|---|
 | Universidad Católica Luis Amigó | Tecnología en Desarrollo de Software | En curso · 3er semestre · 2025– |
-| Certificación Java | Programación Java | ✅ Feb. 10, 2026 |
-| Coursera · U. de los Andes | Introducción a Python | ✅ Oct. 2023 |
+| Great Lerning | Programación Java | ✅ Feb. 2026 |
+| Coursera · U. de los Andes | Programación Python | ✅ Oct. 2023 |
 
 **Idiomas:** Español nativo · Inglés técnico (lectura y documentación)
 
