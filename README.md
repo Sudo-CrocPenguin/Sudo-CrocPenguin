@@ -102,7 +102,7 @@ Servidor personal Ubuntu corriendo en producción con múltiples servicios activ
 
 | Institución | Título | Estado |
 |---|---|---|
-| Universidad Católica Luis Amigó | Tecnología en Desarrollo de Software | En curso · 3er semestre · 2025– |
+| Universidad Católica Luis Amigó | Tecnología en Desarrollo de Software | En curso · 4to semestre · 2025– |
 | Great Lerning | Programación Java | ✅ Feb. 2026 |
 | Coursera · U. de los Andes | Programación Python | ✅ Oct. 2023 |
 
