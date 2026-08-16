@@ -14,7 +14,8 @@
 
 [![Location](https://img.shields.io/badge/📍-Medellín,_Colombia-1a1a2e?style=flat-square)](https://maps.google.com/?q=Medellin,Colombia)
 [![GitHub](https://img.shields.io/badge/GitHub-Sudo--CrocPenguin-0f3460?style=flat-square&logo=github)](https://github.com/Sudo-CrocPenguin)
-[![Email](https://img.shields.io/badge/Email-miguel.blandonmo%40amigo.edu.co-16213e?style=flat-square&logo=gmail)](mailto:miguel.blandonmo@amigo.edu.co)
+[![Email](https://img.shields.io/badge/Email-blandonmontesmiguelangel%40gmail.com-16213e?style=flat-square&logo=gmail)](mailto:blandonmontesmiguelangel@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-314%20834%209006-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+573148349006)
 
 </div>
 
@@ -172,6 +173,6 @@ Servidor personal Ubuntu corriendo en producción con múltiples servicios activ
 
 <div align="center">
 
-`miguel.blandonmo@amigo.edu.co`
+`blandonmontesmiguelangel@gmail.com` · `+57 314 834 9006`
 
 </div>
