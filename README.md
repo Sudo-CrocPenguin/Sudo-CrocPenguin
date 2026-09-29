@@ -99,6 +99,6 @@ shinobi:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1545,50:ff7a00,100:0d0b1e&height=120&section=footer&text=Sigue%20tu%20camino%20ninja%20%F0%9F%8D%A5&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1545,50:ff7a00,100:0d0b1e&height=120&section=footer&text=Sigue%20tu%20camino%20code%20-%20ninja%20%F0%9F%8D%A5&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
