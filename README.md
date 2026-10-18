@@ -291,26 +291,6 @@ Diseño, desarrollo y despliegue de sitios web para clientes de distintos sector
 
 ---
 
-## Trofeos de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sudo-CrocPenguin&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trofeos"/>
-
-</div>
-
----
-
-## Actividad de contribuciones
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sudo-CrocPenguin&bg_color=0d1117&color=a78bfa&line=7c3aed&point=818cf8&area=true&area_color=6366f1&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="actividad"/>
-
-</div>
-
----
-
 ## Serpiente de contribuciones
 
 <div align="center">
