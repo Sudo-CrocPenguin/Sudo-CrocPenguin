@@ -16,7 +16,7 @@
 <br/><br/>
 
 <a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portafolio-4c1d95?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/miguel-angel-bland%C3%B3n-montes-5a90353ba/"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:blandonmontesmiguelangel@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Sudo-CrocPenguin"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -330,7 +330,7 @@ abierto_a:
 <div align="center">
 
 <a href="mailto:blandonmontesmiguelangel@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/miguel-angel-bland%C3%B3n-montes-5a90353ba/"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sudo-CrocPenguin"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portafolio-4c1d95?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
